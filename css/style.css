@@ -1,0 +1,68 @@
+* {
+  font-family: 'Manrope', sans-serif;
+}
+
+.button {
+  background-color: white;
+  color: #87CEEB;
+  font-weight: bold;
+  border: 2px solid #87CEEB;
+  padding: 0.5em 2em;
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 2px rgb(171, 221, 236);
+  text-align: center;
+  display: inline-block;
+  margin: 1em;
+}
+
+.button1 {
+  background-color: white;
+  color: #7ee0e4;
+  border: 2px solid white;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px 2px rgb(171, 221, 236);
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#format {
+  color: #8ccce6;
+  border: 2px solid #87CEEB;
+  border-radius: 10px;
+  text-align: left;
+  font-weight: bold;
+}
+
+@media (max-width: 1200px) {
+  img {
+    width: 45% !important;
+    height: auto;
+  }
+}
+
+@media(max-width: 1920px) {
+  img {
+    width: 45% !important;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  img {
+    width: 50% !important;
+    height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  img {
+    width: 25% !important;
+  }
+}
+
+@media (max-width: 420px) {
+  img {
+    width: 25% !important;
+  }
+}

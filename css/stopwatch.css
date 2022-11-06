@@ -1,0 +1,27 @@
+body {
+  background-image: url(../images/clock.jpg);
+}
+
+#start {
+  font-size: 17px;
+  border-radius: 15%;
+  border-color: blue;
+  color: blue;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#stop {
+  font-size: 17px;
+  border-radius: 15%;
+  border-color: red;
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#reset {
+  font-size: 17px;
+  border-radius: 15%;
+  border-color: #E9AB17;
+  color: #E9AB17;
+  font-family: 'Times New Roman', Times, serif;
+}
